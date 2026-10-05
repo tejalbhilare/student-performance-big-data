@@ -1,0 +1,11 @@
+STUDENT PERFORMANCE BIG DATA ANALYSIS
+=====================================
+
+Overall Average Marks: 67.95
+Overall Average Attendance: 77.95
+
+Average Marks by Department:
+----------------------------
+CS: 61.86
+EXTC: 70.83
+IT: 71.57
